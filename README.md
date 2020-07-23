@@ -1,6 +1,6 @@
 ### Hi, it's Nada (her/she) 👋
 ## I am a full stack Software developer 
-- 🌱 I’m currently learning Node.js
+
 
 <!--
 **Nada-TB/Nada-TB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
