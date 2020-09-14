@@ -1,5 +1,4 @@
-### Hi, it's Nada (her/she) 👋
-## I am a full stack Software developer 
+![presentation](https://github.com/Nada-TB/Nada-TB/blob/master/images/Copie%20de%20Budding%20Programmer%20Diary's.gif)
 
 
 <!--
