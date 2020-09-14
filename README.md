@@ -1,4 +1,4 @@
-![presentation](/images/presentation.gif)
+![presentation](https://github.com/Nada-TB/Nada-TB/blob/master/images/presentation.gif)
 
 
 <!--
