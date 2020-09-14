@@ -1,4 +1,4 @@
-![presentation](images/presentation.gif)
+![presentation](/images/presentation.gif)
 
 
 <!--
