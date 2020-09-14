@@ -1,4 +1,4 @@
-![presentation](https://github.com/Nada-TB/Nada-TB/blob/master/images/Copie%20de%20Budding%20Programmer%20Diary's.gif)
+![presentation](images/presentation.gif)
 
 
 <!--
