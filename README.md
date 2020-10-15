@@ -21,7 +21,8 @@ This question led me to develop an insatiable appetite for learning new things, 
 ### 🔧 Click here to view my [Projects](https://github.com/Nada-TB/projects-list) 
 
 ### 📫 How to reach me: 
-   [Email](mailto:nada.tebba@hotmail.fr)   [Twitter](https://twitter.com/Nada__Ta)
+   - 📧 [Email](mailto:nada.tebba@hotmail.fr)  
+   - 🐦 [Twitter](https://twitter.com/Nada__Ta)
 
 
 
