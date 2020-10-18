@@ -1,4 +1,4 @@
-![presentation](https://github.com/Nada-TB/Nada-TB/blob/master/images/presentation.gif)
+![presentation](https://github.com/Nada-TB/Nada-TB/blob/master/presentation.gif)
 
 🌿 Hi, I am Nada, a full stack developer 👩‍💻. I embarked on the programming's shipboard Last year, after unexpected and eclectic circumstances due to my unstoppable question: How stuff works?
 This question led me to develop an insatiable appetite for learning new things, exploring, and analyzing! 
