@@ -13,7 +13,7 @@ This question led me to develop an insatiable appetite for learning new things, 
 
 📜 My programming's philosophy: Fundamentals are the timeless trend 😉
 
-🔎 I’m currently looking for a software developer postion 
+🔎 I’m currently looking for a software developer position 
 
 ### ⏳ Latest activity :
  Mentoring  👩‍🏫 from April 2020 to August 2020 at [descodeuses](https://www.descodeuses.org/)
