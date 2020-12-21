@@ -9,7 +9,7 @@ This question led me to develop an insatiable appetite for learning new things, 
 
 🌿 My code journey started at the age of 14, hibernated for more than a decade, has been reborn in 2019 at a tech school where I got my bachelor's level diploma as a full stack developer. It has been continuing as a self-taught developer cause we all agree: There is a bunch of new things to learn every day! Honestly, who can stop learning ⁉️
 
-⌚ My favorite programming moments : Solving intricate problems, creating art.
+⌚ My favorite programming moments : Solving intricate problems.
 
 📜 My programming's philosophy: Fundamentals are the timeless trend 😉
 
