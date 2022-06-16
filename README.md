@@ -16,7 +16,7 @@ This question led me to develop an insatiable appetite for learning new things, 
 🔎 I’m currently looking for a software developer full-time position 
 
 ### ⏳ Latest activity :
- Mentoring  👩‍🏫 from April 2020 to August 2020 at [descodeuses](https://www.descodeuses.org/)
+ Mentoring  👩‍🏫 
  
 ### 🔧 Click here to view my [Projects](https://github.com/Nada-TB/projects-list) 
 
