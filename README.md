@@ -16,7 +16,7 @@ This question led me to develop an insatiable appetite for learning new things, 
 ### ⏳ Latest activity :
  Mentoring  👩‍🏫 
  
-### 🔧 Click here to view my [Projects](https://github.com/Nada-TB/projects-list) 
+### 🔧 Click here to view my [Projects](https://github.com/Nada-TB/mygithub-projects)
 
 ### 📫 How to reach me: 
    - 📧 [Email](mailto:nada.tebba@hotmail.fr)  
