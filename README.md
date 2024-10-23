@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Web Developer 💻 with a pinch o
   
 - 🔭 **Addicted** to continuous learning; currently diving into UI/UX design.
 
-
+<br/>
 
 
 ## 🚀 Skills:
@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Web Developer 💻 with a pinch o
 
 <!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nada-TB&show_icons=true&theme=radical)-->
 
-
+<br/>
 
 ## 📫 How to reach me:
 
