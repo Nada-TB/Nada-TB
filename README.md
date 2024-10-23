@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Web Developer 💻 with a pinch o
 
 ## 👩‍💻 About Me:
 
-- ⛵ Embarked on the journey of "the creating bug" since 2019, fueled by impactful learning experiences in solving medical cases 🩺 and writing for webzines 🕵🏽‍♀️.
+- ⛵ Embarked on the journey of "the creating bug" 😉 since 2019, fueled by my previous impactful learning experiences in solving medical cases 🩺 and writing for webzines 🕵🏽‍♀️
 
 - 🌱 I’m currently working on the ![design](https://img.shields.io/badge/UX-UI-purple) design, refactoring and enhancing the [![Be Programmer diary's](https://img.shields.io/badge/Be-Programmer%20diarys%20website-orange)](https://bpdiarys.com/) code.
 
