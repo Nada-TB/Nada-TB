@@ -1,29 +1,24 @@
-🌿 Hi, I am Nada, a full stack developer 👩‍💻. I embarked on the programming's shipboard Last year, after unexpected and eclectic circumstances due to my unstoppable question: How stuff works?
-This question led me to develop an insatiable appetite for learning new things, exploring, and analyzing! 
+# Hi there 👋, I'm Nada!
 
-🌿 Machines have been, since ever, my favorites playthings; I was very good at disassembling, not at assembling! Mechanics wasn't, obviously, my calling but understanding the functionalities and the logic behind was my super skill 💪
+Welcome to my GitHub profile! I'm a Full-Stack Web Developer 💻 with a pinch of creativity 🎨 and multidisciplinary thinking 🧠
 
-🌿 To describe the human body, [Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes) compared it to a machine. As a machine's huge lover, I decided to uncover its mystery. It was a long path littered with adventures labeled : 👩‍⚕️ that docked my life's boat at the following port: the code's land 💻
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-View-blue)](https://tinyurl.com/nada-portfolio)
 
-🌿 My code journey started at the age of 14, hibernated for more than a decade, has been reborn in 2019 at a tech school where I got my bachelor's level diploma as a full stack developer. It has been continuing as a self-taught developer cause we all agree: There is a bunch of new things to learn every day! Honestly, who can stop learning ⁉️
-
-⌚ My favorite programming moments : Solving intricate problems.
-
-📜 My programming's philosophy: Fundamentals are the timeless trend 😉
-
-🔎 I’m currently looking for a software developer full-time position 
-
-### ⏳ Latest activity :
- Mentoring  👩‍🏫 
- 
-### 🔧 Click here to view my [Projects](https://github.com/Nada-TB/mygithub-projects)
-
-### 📫 How to reach me: 
-   - 📧 [Email](mailto:nada.tebba@hotmail.fr)  
-   - 🐦 [Twitter](https://twitter.com/Nada__Ta)
+![Coffee](https://img.shields.io/badge/Tea-Lover-green?style=for-the-badge&logo=Tea)
 
 
+## Skills
+<br>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"  title="HTML" with="40" height=40 /> &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" title="CSS" with=40 height=40/> &nbsp; &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" width=40 height=40 />&nbsp; &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40" style="padding-right: 10px;"/>&nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" title="p5.js" width=40 height=40 /> &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title="p5.js" width=40 height=40 />&nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"  width=40 height=40/> &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="node.js" width=40 height=40 /> &nbsp; &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"  title="express" width=40 height=40 style="filter: hue-rotate(210deg) brightness(0.8);" />
+&nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width=40 height=40 /> &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width=40 height=40 /> &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" title= "PostgreSQL" width=40 height=40 />  &nbsp; &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" title ="MongoDB" width=40 height=40 />&nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="figma" width=40 height=40/> &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="vscode" width=40 height=40  /> &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" title="git" width=40 height=40 />        
+<br/>
+![Patterns](https://img.shields.io/badge/Patterns-MVC%20%7C%20POO-blue?style=for-the-badge)&nbsp;&nbsp;&nbsp;![Techniques](https://img.shields.io/badge/Techniques-npm%20%7C%20AJAX%20%7C%20REST%20APIs%20%7C%20Responsive%20Design%20%7C%20UI%2FUX-blue?style=for-the-badge)
+
+<br/>
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nada-TB&show_icons=true&theme=radical)
 <!--
 **Nada-TB/Nada-TB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
