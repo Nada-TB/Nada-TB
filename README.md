@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Web Developer 💻 with a pinch o
 
 - 👩‍🏫 **Enjoy**: mentoring budding developers and sharing my knowledge!
   
-- 🔭 **Addicted** to continuous learning; currently diving into UI/UX design.
+- 🔭 **Addicted** to continuous learning...
 
 <br/>
 
