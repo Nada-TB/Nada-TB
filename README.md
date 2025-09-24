@@ -87,7 +87,7 @@ Welcome to my GitHub profile! I'm a versatile software engineer 💻 with a pinc
 ## 📫 How to reach me:
 
 
-   [![Email](https://img.shields.io/badge/Email-let%27s%20Connect-blue)](mailto:nada.tebba@hotmail.fr)&nbsp; &nbsp;&nbsp; &nbsp;[![Twitter](https://img.shields.io/badge/X-visit-blue)](https://twitter.com/Nada__Ta)&nbsp; &nbsp;&nbsp; &nbsp;[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue)](https://tinyurl.com/nada-portfolio)
+   [![Email](https://img.shields.io/badge/Email-let%27s%20Connect-blue)](mailto:nada.tebba@hotmail.fr)&nbsp; &nbsp;&nbsp; &nbsp;[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue)](https://tinyurl.com/nada-portfolio)
 
 <!--
 **Nada-TB/Nada-TB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
