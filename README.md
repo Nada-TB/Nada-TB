@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I'm a versatile software engineer 💻 with a pinc
 
 <br/>
 
-
+---
 
 ## 🔧 Projects and Contributions:
 
@@ -83,7 +83,7 @@ Welcome to my GitHub profile! I'm a versatile software engineer 💻 with a pinc
 
 <br/>
 
-
+---
 ## 📫 How to reach me:
 
 
