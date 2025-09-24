@@ -19,12 +19,18 @@ Welcome to my GitHub profile! I'm a Full-Stack Web Developer 💻 with a pinch o
   
 - 🔭 **Addicted** to continuous learning...
 
-<br/>
+---
 
+## 🚀 My toolkit:
 
-## 🚀 Skills:
+### ⚡ New to the Toolkit:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DB](https://img.shields.io/badge/python-C76e00?style=for-the-badge)
+</br>
+
+---
   
-### Front-end:
+<!--### Front-end:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"  title="HTML" with="40" height=40 /> &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" title="CSS" with=40 height=40/> &nbsp; &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />&nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" width=40 height=40 />&nbsp; &nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40" />&nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" title="p5.js" width=40 height=40 /> &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" title="canva" width=40 height=40 />&nbsp; &nbsp;
 
@@ -47,17 +53,26 @@ Welcome to my GitHub profile! I'm a Full-Stack Web Developer 💻 with a pinch o
 
 ### Technologies:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="figma" width=40 height=40/> &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" title="vscode" width=40 height=40  /> &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" title="git" width=40 height=40 />        
-<br/>
-![Patterns](https://img.shields.io/badge/Patterns-MVC%20%7C%20POO-green?style=for-the-badge)&nbsp;&nbsp;&nbsp;![Techniques](https://img.shields.io/badge/Techniques-npm%20%7C%20AJAX%20%7C%20REST%20APIs%20%7C%20Responsive%20Design%20%7C%20UI%2FUX-purple?style=for-the-badge)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="figma" width=40 height=40/> &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" title="vscode" width=40 height=40  /> &nbsp; &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" title="git" width=40 height=40 />   -->     
+
+![js](https://img.shields.io/badge/JavaScript-React%20|%20Node.js%20|%20express.js%20|%20p5.js-8A2BE2?style=for-the-badge)&nbsp;&nbsp;&nbsp;![PHP ](https://img.shields.io/badge/PHP-gray?style=for-the-badge)
+
+![html/css](https://img.shields.io/badge/HTML-CSS-8A2BE2?style=for-the-badge)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/bootstrap-canvas%20|%20svg-8A2BE2?style=for-the-badge)
+
+![DB](https://img.shields.io/badge/Databases-%20MySQL%20|%20postgreSQL%20|%20mongoDB-8A2BE2?style=for-the-badge)
+
+![DB](https://img.shields.io/badge/vscode|%20git%20|%20figma%20-8A2BE2?style=for-the-badge)
+
+
+![Patterns](https://img.shields.io/badge/Patterns-MVC%20%7C%20POO-06402B?style=for-the-badge)&nbsp;&nbsp;&nbsp;![Techniques](https://img.shields.io/badge/Techniques-npm%20%7C%20AJAX%20%7C%20REST%20APIs%20%7C%20Responsive%20Design%20%7C%20UI%2FUX-purple?style=for-the-badge)
+
+
 
 <br/>
 
 
 
 ## 🔧 Projects and Contributions:
-
-## 🔧 Projects & Contributions
 
 - **Software Engineering Challenges**  [Follow my coding journey](https://github.com/Nada-TB/Software-Engineering-Challenges-Tracker)  
 - **Previous Projects**  [Organized by category (Old Wiki)](https://github.com/Nada-TB/mygithub-projects)
