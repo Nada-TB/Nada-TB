@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a versatile software engineer 💻 with a pinc
 
 - ⛵ Embarked on the journey of "the creating bug" 😉 since 2019, fueled by my previous impactful learning experiences in solving medical cases 🩺 and writing for webzines 🕵🏽‍♀️
 
-- 🌱 I’m currently working on [![challenges](https://img.shields.io/badge/expanding%20my%20technical%20toolkit%20through%20hands--on%20software%20engineering%20challenges-8A2BE2)](https://github.com/Nada-TB/Software-Engineering-Challenges-Tracker), refactoring and enhancing the [![Be Programmer diary's](https://img.shields.io/badge/Be-Programmer%20diarys%20website-orange)](https://bpdiarys.com/) code.
+- 🌱 I’m currently working on [![challenges](https://img.shields.io/badge/expanding%20my%20technical%20toolkit%20through%20hands--on%20software%20engineering%20challenges-8A2BE2)](https://github.com/Nada-TB/Software-Engineering-Challenges-Tracker), refactoring and enhancing the [![Be Programmer diary's](https://img.shields.io/badge/Be-Programmer%20diarys%20website-blue)](https://bpdiarys.com/) code.
 
 - ⌚ **Favorite programming moments**: Solving intricate problems.
 
