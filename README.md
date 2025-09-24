@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nada!
 
-Welcome to my GitHub profile! I'm a Full-Stack Web Developer 💻 with a pinch of creativity 🎨 and multidisciplinary thinking 🧠
+Welcome to my GitHub profile! I'm a versatile software engineer 💻 with a pinch of creativity 🎨 and multidisciplinary thinking 🧠
 
 <!--![Tea](https://img.shields.io/badge/Drink-Tea-green?style=for-the-badge&logo=Tea)&nbsp;&nbsp;&nbsp;![Chocolate](https://img.shields.io/badge/Chocolate-Lover-brown?style=for-the-badge&logo=Chocolate)-->
 
